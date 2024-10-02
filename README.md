@@ -26,7 +26,7 @@ To get started with the project locally, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/amazon-home-page-clone.git
+    git clone https://github.com/AJ4G4L4N/amazon-home-page-clone.git
     ```
 
 2. Open the project folder:
